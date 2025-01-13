@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>随笔 on 我的博客</title>
+    <link>http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 随笔 on 我的博客</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>你好，世界！</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;这是我的第一篇博客文章！&lt;/p&gt;
+&lt;h2 id=&#34;标题&#34;&gt;标题&lt;/h2&gt;
+&lt;p&gt;这里是正文内容&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;子标题&#34;&gt;子标题&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;列表项 1&lt;/li&gt;
+&lt;li&gt;列表项 2&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
